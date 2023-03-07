@@ -7,4 +7,3 @@ Mi enfoque es coordinar equipos de ingeniería de software para el desarrollo de
 Me apasiona trabajar con personas para ayudarles a mejorar sus habilidades cada día y aportar en la definición de sus planes de carrera. Estoy convencido de que cada miembro de un equipo puede transformar el entorno, y así, conseguir excelentes resultados dentro y fuera de la organización.
 
 Además, me gusta establecer la visión del equipo, negociando las estrategias tecnológicas del producto que permitan construir mapas de ruta para la definición y priorización del backlog de las diferentes células de trabajo.
-
